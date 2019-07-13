@@ -5,6 +5,9 @@ Java bootcamp.
 
 ### Overview
 
+This Java program will take in the price of the customers item and their cash. It will
+compute the difference and state the customers change in dollar bills and coins.
+
 ### Technologies Used
 * Java
 * Eclipse
