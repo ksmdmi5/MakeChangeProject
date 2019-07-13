@@ -14,4 +14,7 @@ compute the difference and state the customers change in dollar bills and coins.
 * Git
 * Atom
 
-### Lessons
+### Lessons Learned
+
+When stuck Google can give a thousand possible answers but this means little until
+you understand the context.
